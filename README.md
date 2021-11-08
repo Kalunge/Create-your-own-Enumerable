@@ -1,5 +1,4 @@
 # Create-your-own-Enumerable
-# Enumerable
 
 > The Enumerable mixin provides collection classes with method of `all?`, `any?`, `filter`, `max`, `min`.# Enumerable
 
